@@ -6,9 +6,21 @@
 Xfsm 洋哥谈状态机
 ================================
 
+
+Matlab Stateflow帮助文件翻译
+
+.. toctree::
+   :maxdepth: 2
+   :numbered:
+
+   matlab/state.rst
+   matlab/transition.rst
+
+
+
+Xfsm
+
 .. toctree::
    :maxdepth: 1
 
-   matlab/state.rst
    rst/syntax.rst
-
