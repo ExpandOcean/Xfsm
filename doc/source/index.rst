@@ -7,7 +7,8 @@ Xfsm 洋哥谈状态机
 ================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
 
+   matlab/state.rst
    rst/syntax.rst
 
